@@ -1,0 +1,5 @@
+Egy kiadvány készül az informatika és távközlés ágazat szakképzési duális képzési formájának népszerűsítésére. A cél, hogy alapvető információkat nyújtson potenciális IT cégek döntéshozóinak a duális partnerré válás feltételeiről és körülményeikről. Ez egy nyomtatott és elektronikus formában is elérhető vonző, figyelemfelkeltő, színes kiadvány lesz. Terjedelme 10-20 oldal. Jellegében egy marketing anyag, megközelítésében a vezetői összefogalóhoz áll közelebb. A részletesebb információkhoz az anyag kimutat más forrásokra. 
+
+A bevezető pontok egyikében a szakképzési rendszer, ezen belül is az informatika és távközlés ágazat működését is be kell mutatni. Ennek az ad különos jelentőséget, hogy 4 éve változott meg alapvetően a szakképzési rendszer (az új rendszert "Szakképzés 4.0" néven szokták emlegetni), és ennek működése és struktúrája még sokak számára nem ismert.
+
+Készíts egy vázlatos tartalomjegyzéket! 
